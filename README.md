@@ -1,6 +1,6 @@
 # just-for-fun
-This is an open-source CLI project aim to play 千本桜(Senbonzakura) with python.  
 share some codes(有趣?无聊？)
+This is an open-source CLI project aim to play 千本桜(Senbonzakura) with python.  
 
 ---
 ## Showup
